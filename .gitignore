@@ -1,0 +1,24 @@
+# Ignore binaries and executables
+.exe
+.dll
+
+# Ignore build output directory
+bin/
+obj/
+
+# Ignore Visual Studio specific files
+.vs/
+.suo
+.user
+.userprefs
+
+# Ignore NuGet packages
+/packages/
+
+# Ignore user-specific files
+.suo
+.user
+.userprefs
+
+App.config
+*.manifest
